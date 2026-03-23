@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-local-storage/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-local-storage/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/local-storage)](https://www.npmjs.com/package/@philiprehberger/local-storage)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-local-storage)](LICENSE)
 
 Type-safe localStorage wrapper with JSON serialization, TTL, and key prefixing.
 
