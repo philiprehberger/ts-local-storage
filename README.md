@@ -1,9 +1,8 @@
 # @philiprehberger/local-storage
 
 [![CI](https://github.com/philiprehberger/ts-local-storage/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-local-storage/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/local-storage)](https://www.npmjs.com/package/@philiprehberger/local-storage)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-local-storage)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/local-storage.svg)](https://www.npmjs.com/package/@philiprehberger/local-storage)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-local-storage)](https://github.com/philiprehberger/ts-local-storage/commits/main)
 
 Type-safe localStorage wrapper with JSON serialization, TTL, and key prefixing.
 
@@ -90,6 +89,24 @@ npm test
 npm run typecheck
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/ts-local-storage)
+
+🐛 [Report issues](https://github.com/philiprehberger/ts-local-storage/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/ts-local-storage/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
